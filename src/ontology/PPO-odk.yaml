@@ -1,12 +1,11 @@
 id: PPO
 title: "Physiological Process Ontology (PPO)"
 github_org: rays22
-git_main_branch: master
+git_main_branch: main
 repo: physiological-process-ontology
 edit_format: obo
 release_diff: TRUE
 use_dosdps: TRUE
-dosdp_tools_options: "--obo-prefixes=true --prefixes=config/prefixes.yaml"
 remove_owl_nothing: TRUE
 use_templates: TRUE
 import_component_format: ofn

@@ -4,8 +4,8 @@ idspace: PPO
 base_url: /obo/PPO
 
 products:
-- PPO.owl: https://raw.githubusercontent.com/rays22/physiological-process-ontology/master/PPO.owl
-- PPO.obo: https://raw.githubusercontent.com/rays22/physiological-process-ontology/master/PPO.obo
+- PPO.owl: https://raw.githubusercontent.com/rays22/physiological-process-ontology/main/PPO.owl
+- PPO.obo: https://raw.githubusercontent.com/rays22/physiological-process-ontology/main/PPO.obo
 
 term_browser: ontobee
 example_terms:
@@ -24,5 +24,5 @@ entries:
 
 ## generic fall-through, serve direct from github by default
 - prefix: /
-  replacement: https://raw.githubusercontent.com/rays22/physiological-process-ontology/master/
+  replacement: https://raw.githubusercontent.com/rays22/physiological-process-ontology/main/
 
