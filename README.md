@@ -2,7 +2,7 @@
 ![Build Status](https://github.com/rays22/physiological-process-ontology/workflows/CI/badge.svg)
 # Physiological Process Ontology (PPO)
 
-Description: None
+Description: The Physiological Process Ontology (PPO) is an extension of the [GO:0008150 biological_process](https://www.ebi.ac.uk/ols4/ontologies/go/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0008150?lang=en) branch with the aim to provide physiological process terms.
 
 More information can be found at http://obofoundry.org/ontology/PPO
 
