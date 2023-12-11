@@ -1,0 +1,28 @@
+# PURL configuration for http://purl.obolibrary.org/obo/PPO
+
+idspace: PPO
+base_url: /obo/PPO
+
+products:
+- PPO.owl: https://raw.githubusercontent.com/rays22/physiological-process-ontology/master/PPO.owl
+- PPO.obo: https://raw.githubusercontent.com/rays22/physiological-process-ontology/master/PPO.obo
+
+term_browser: ontobee
+example_terms:
+- PPO_0000000
+
+entries:
+
+- prefix: /releases/
+  replacement: https://raw.githubusercontent.com/rays22/physiological-process-ontology/v
+
+- prefix: /tracker/
+  replacement: https://github.com/rays22/physiological-process-ontology/issues
+
+- prefix: /about/
+  replacement: http://www.ontobee.org/ontology/PPO?iri=http://purl.obolibrary.org/obo/
+
+## generic fall-through, serve direct from github by default
+- prefix: /
+  replacement: https://raw.githubusercontent.com/rays22/physiological-process-ontology/master/
+
