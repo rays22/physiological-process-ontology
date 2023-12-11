@@ -18,7 +18,7 @@ http://purl.obolibrary.org/obo/PPO.owl
 
 ### Editors' version
 
-Editors of this ontology should use the edit version, [src/ontology/PPO-edit.owl](src/ontology/PPO-edit.obo)
+Editors of this ontology should use the edit version, [src/ontology/PPO-edit.obo](src/ontology/PPO-edit.obo)
 
 ## Contact
 
