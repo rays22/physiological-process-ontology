@@ -11,12 +11,6 @@ import: http://purl.obolibrary.org/obo/PPO/imports/go_import.owl
 
 import: http://purl.obolibrary.org/obo/PPO/imports/pato_import.owl
 
-import: http://purl.obolibrary.org/obo/PPO/imports/omo_import.owl
-
-import: http://purl.obolibrary.org/obo/PPO/imports/hp_import.owl
-
-import: http://purl.obolibrary.org/obo/PPO/imports/mondo_import.owl
-
 import: http://purl.obolibrary.org/obo/PPO/imports/ncbitaxon_import.owl
 
 import: http://purl.obolibrary.org/obo/PPO/imports/uberon_import.owl
@@ -25,11 +19,7 @@ import: http://purl.obolibrary.org/obo/PPO/imports/cl_import.owl
 
 import: http://purl.obolibrary.org/obo/PPO/imports/nbo_import.owl
 
-import: http://purl.obolibrary.org/obo/PPO/imports/pr_import.owl
-
 import: http://purl.obolibrary.org/obo/PPO/imports/so_import.owl
-
-import: http://purl.obolibrary.org/obo/PPO/imports/po_import.owl
 
 import: http://purl.obolibrary.org/obo/PPO/imports/bfo_import.owl
 

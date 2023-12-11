@@ -18,15 +18,6 @@
   <uri name="http://purl.obolibrary.org/obo/PPO/imports/pato_import.owl" uri="imports/pato_import.owl"/>
   <uri name="http://purl.obolibrary.org/obo/PPO/imports/pato_import.obo" uri="imports/pato_import.obo"/>
   
-  <uri name="http://purl.obolibrary.org/obo/PPO/imports/omo_import.owl" uri="imports/omo_import.owl"/>
-  <uri name="http://purl.obolibrary.org/obo/PPO/imports/omo_import.obo" uri="imports/omo_import.obo"/>
-  
-  <uri name="http://purl.obolibrary.org/obo/PPO/imports/hp_import.owl" uri="imports/hp_import.owl"/>
-  <uri name="http://purl.obolibrary.org/obo/PPO/imports/hp_import.obo" uri="imports/hp_import.obo"/>
-  
-  <uri name="http://purl.obolibrary.org/obo/PPO/imports/mondo_import.owl" uri="imports/mondo_import.owl"/>
-  <uri name="http://purl.obolibrary.org/obo/PPO/imports/mondo_import.obo" uri="imports/mondo_import.obo"/>
-  
   <uri name="http://purl.obolibrary.org/obo/PPO/imports/ncbitaxon_import.owl" uri="imports/ncbitaxon_import.owl"/>
   <uri name="http://purl.obolibrary.org/obo/PPO/imports/ncbitaxon_import.obo" uri="imports/ncbitaxon_import.obo"/>
   
@@ -39,14 +30,8 @@
   <uri name="http://purl.obolibrary.org/obo/PPO/imports/nbo_import.owl" uri="imports/nbo_import.owl"/>
   <uri name="http://purl.obolibrary.org/obo/PPO/imports/nbo_import.obo" uri="imports/nbo_import.obo"/>
   
-  <uri name="http://purl.obolibrary.org/obo/PPO/imports/pr_import.owl" uri="imports/pr_import.owl"/>
-  <uri name="http://purl.obolibrary.org/obo/PPO/imports/pr_import.obo" uri="imports/pr_import.obo"/>
-  
   <uri name="http://purl.obolibrary.org/obo/PPO/imports/so_import.owl" uri="imports/so_import.owl"/>
   <uri name="http://purl.obolibrary.org/obo/PPO/imports/so_import.obo" uri="imports/so_import.obo"/>
-  
-  <uri name="http://purl.obolibrary.org/obo/PPO/imports/po_import.owl" uri="imports/po_import.owl"/>
-  <uri name="http://purl.obolibrary.org/obo/PPO/imports/po_import.obo" uri="imports/po_import.obo"/>
   
   <uri name="http://purl.obolibrary.org/obo/PPO/imports/bfo_import.owl" uri="imports/bfo_import.owl"/>
   <uri name="http://purl.obolibrary.org/obo/PPO/imports/bfo_import.obo" uri="imports/bfo_import.obo"/>

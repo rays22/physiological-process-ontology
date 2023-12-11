@@ -21,16 +21,11 @@ These are the current imports in PPO
 | goplus | http://purl.obolibrary.org/obo/go/go-base.owl | None |
 | go | http://purl.obolibrary.org/obo/go.owl | None |
 | pato | http://purl.obolibrary.org/obo/pato.owl | None |
-| omo | http://purl.obolibrary.org/obo/omo.owl | None |
-| hp | http://purl.obolibrary.org/obo/hp.owl | None |
-| mondo | http://purl.obolibrary.org/obo/mondo.owl | None |
 | ncbitaxon | http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.owl | None |
 | uberon | http://purl.obolibrary.org/obo/uberon.owl | None |
 | cl | http://purl.obolibrary.org/obo/cl.owl | None |
 | nbo | http://purl.obolibrary.org/obo/nbo.owl | None |
-| pr | https://raw.githubusercontent.com/obophenotype/pro_obo_slim/master/pr_slim.owl | None |
 | so | http://purl.obolibrary.org/obo/so.owl | None |
-| po | http://purl.obolibrary.org/obo/po.owl | None |
 | bfo | http://purl.obolibrary.org/obo/bfo.owl | None |
 
 ## Components

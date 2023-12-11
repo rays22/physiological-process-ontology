@@ -62,12 +62,6 @@ import_group:
         - http://purl.obolibrary.org/obo/GOREL_
     - id: pato
       use_base: True
-    - id: omo
-      use_base: True
-    - id: hp
-      use_base: True
-    - id: mondo
-      use_base: True
     - id: ncbitaxon
       mirror_from: http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.owl
     - id: uberon
@@ -76,12 +70,7 @@ import_group:
       make_base: True
     - id: nbo
       use_base: True
-    - id: pr
-      make_base: TRUE
-      mirror_from: https://raw.githubusercontent.com/obophenotype/pro_obo_slim/master/pr_slim.owl
     - id: so
-      make_base: TRUE
-    - id: po
       make_base: TRUE
     - id: bfo
       make_base: TRUE
@@ -103,7 +92,7 @@ robot_report:
   use_labels : False
   custom_profile : True
   report_on :
-    - oba.owl
+    - PPO.owl
   custom_sparql_checks :
     - equivalent-classes
     - owldef-self-reference

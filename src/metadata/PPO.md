@@ -35,16 +35,11 @@ dependencies:
 - id: goplus
 - id: go
 - id: pato
-- id: omo
-- id: hp
-- id: mondo
 - id: ncbitaxon
 - id: uberon
 - id: cl
 - id: nbo
-- id: pr
 - id: so
-- id: po
 - id: bfo
 
 tracker: https://github.com/rays22/physiological-process-ontology/issues
